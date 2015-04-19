@@ -1,0 +1,12 @@
+*~
+.idea/
+web/assets/
+web/protected/runtime/
+web/index.php
+web/protected/config/main.php
+.DS_Store
+web/.DS_Store
+web/protected/.DS_Store
+web/protected/extensions/.DS_Store
+
+
